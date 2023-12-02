@@ -156,7 +156,8 @@ img {
     rgba(46, 47, 66, 0.7)), 
     url(../images/img-name.jpeg);
     max-width: 1440px;
-    background-image: url('https: //s3-alpha-sig.figma.com/img/7c8d/46d4/7e83b6c8ee4603ea892aa8aaebb3c5fe?Expires=1702252800&Signature=nH~TwhY6zdH~3AL1igIAXXln5e2yp-sL1O0qX-69uODv9GQlXIsQUjoe6r~3OLFaJdRyvTXdAPbdA1IokBCB4k659JWXpYzuD74NECqB3DLoQAx4u~4t0WgKKZ2dH-zLSMztztzeqMWkLA-vu0e1G0XnJ26OUciwAPOD~FS-m6b858o4MZnmCLkvDZpLRW6gv5Z00Fz11HpIrEPb8BV-5S3GnPfzVTQmnaVEIXQdyEpfYfmmSbdUxxFUCAvLx7gzcql4tYs3NS3z1ML~yke00kTVazRweu0x6TBRTVe5ayt-2wcR5Su4goMR4yMyz8AgE4m2fPFCuWEuVZyqed8wMw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7),
+    rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
