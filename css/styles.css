@@ -243,11 +243,6 @@ img {
     margin-bottom: 8px;
 }
 
-.icon-social {
-    width: 64;
-    height: 64;
-}
-
 .heading-strategy {
     margin-bottom: 8px;
 }
@@ -498,18 +493,23 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     margin-bottom: 16px;
 }
 
-.link-section-five{
+.list-footer{
+    display: flex;
+    gap: 16px;
+}
+
+.link-footer{
     width: 100%;
     height: 100%;
-    background-color: var(--strong-blue);
-    border-radius: 50%;
+    background-color:var(--strong-blue);
+    border-radius:50%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.link-section-five:hover,
-.link-section-five:focus{
+.link-footer:hover,
+.link-footer:focus{
     background-color:var(--green);
 }
 
