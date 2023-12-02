@@ -367,7 +367,7 @@ img {
 }
 
 .link-section-five:hover,
-.link-section-five:focus:{
+.link-section-five:focus{
     border-color:var(--spherical-blue);
     color:var(--spherical-blue);
 }
