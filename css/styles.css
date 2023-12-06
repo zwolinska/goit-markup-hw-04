@@ -316,12 +316,12 @@ img {
 }
 
 .icon-social-four{
-    fill: var(--spherical-blue);
+    fill: var(--light-grey);
 }
 
 .link-section-four:hover,
 .link-section-four:focus{
-    background-color:var(--light-grey);
+    background-color:var(--spherical-blue);
 }
 
 .acapit-section-four{
